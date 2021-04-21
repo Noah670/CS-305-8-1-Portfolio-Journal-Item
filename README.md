@@ -7,7 +7,7 @@
 
 - ## What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
 
-     > I think the use and implemenation of the SHA-256 algorithm cipher went well to address the security vulnerabilities of the application. It is incredibly important to write secure code that is maintainable and less vulnerable to security attacks that any company will potentially face. In the modern world of the internet every company has a website which must follow these security guidelines and improves the overall quality and security for the company. 
+     > I think the use and implemenation of the SHA-256 algorithm cipher went well to address the security vulnerabilities of the application. It is incredibly important to write secure code that is maintainable and less vulnerable to security attacks that any company will potentially face.In the modern world of the internet every company has a website which must follow these security guidelines and improves the overall quality and security for the company. 
 
 - ## What about the process of working through the vulnerability assessment did you find challenging or helpful?
 
